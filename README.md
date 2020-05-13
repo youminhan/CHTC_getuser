@@ -1,1 +1,1 @@
-# CHTC_getuser
+# For reference, please refer to RCFA-resources/How-Tos folder on CHTC google drive.
