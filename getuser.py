@@ -20,11 +20,11 @@ browser.get('https://wwwapps.chtc.wisc.edu//chtcuser/')
 username = browser.find_element_by_id("username-input")
 
 # Enter your user name here
-username.send_keys("username")
+username.send_keys("Replace with your Username!")
 password = browser.find_element_by_id("password-input")
 
 # Enter your password here
-password.send_keys("password")
+password.send_keys("Replace with your Password!")
 browser.find_element_by_css_selector('input.btn.btn-primary.btn-large').click()
 
 
